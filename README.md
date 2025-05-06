@@ -1,5 +1,7 @@
 # socialmediaapp - Dave Deloria
 # Updated
+# run the front end "npm run dev"
+# run the backend "go run main.go"
 
 This template should help get you started developing with Vue 3 in Vite.
 
